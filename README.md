@@ -1,4 +1,3 @@
 # hello-world
-A repository built for learning purposes
-Just making my first steps in Github, nothing much to tell yet
+## This is a markdown file
 Added the line above 
